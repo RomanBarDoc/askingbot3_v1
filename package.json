@@ -1,0 +1,24 @@
+{
+  "name": "askingbot3_v1",
+  "version": "1.0.0",
+  "description": "new ver bot v1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RomanBarDoc/askingbot3_v1.git"
+  },
+  "dependencies": {
+    "helpershark": "1.0.1",
+    "instagram_asker_v1": "1.0.0",
+    "askingbot3": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanBarDoc/askingbot3_v1/issues"
+  },
+  "homepage": "https://github.com/RomanBarDoc/askingbot3_v1"
+}
